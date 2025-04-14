@@ -1,0 +1,7 @@
+{
+  "region": "your-aws-region",
+  "ami": "your-ami-id",
+  "instance_type": "your-instance-type",
+  "key_name": "your-key-name",
+  "availability_zone": "your-availability-zone"
+}

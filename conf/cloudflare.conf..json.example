@@ -1,0 +1,4 @@
+{
+    "cloudflare_zone_id": "your-cloudflare-zone-id",
+    "cloudflare_api_token": "your-cloudflare-api-token"
+}
